@@ -11,11 +11,8 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to username on 'Tipster powered websites' e.g. Reddit, YouTube, etc. The information collected includes your username on these sites. This information is linked with your Tipster address, to enable rewards, and is stored in your device, and also a copy kept on my server. (e.g. redditName-TipsterAddress). This information can be removed at your request, by contacting me.
 
-The app does use third party services that may collect information used to identify you.
+The app does not use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app
-
-[Google Play Services](https://www.google.com/policies/privacy/)
 
 ## Log Data
 
@@ -25,7 +22,7 @@ I want to inform you that whenever you use my Service, in case of an error in th
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service may use these “cookies” these cookies to track referrals you provide us, or referrals who have recommended the service to you. The app may also use third party code and libraries that use “cookies” to collect information and improve their services.
+This Service may use these “cookies” to track referrals you provide us, or referrals who have recommended the service to you. The app may also use third party code and libraries that use “cookies” to collect information and improve their services.
 
 ## Service Providers
 
